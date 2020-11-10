@@ -25,7 +25,7 @@
 
 I'm Yogesh Yadav, a self-taught Full Stack Developer 🚀 and UI/UX Designer ⚡ from India. I want to build things that make a difference. Anything and everything that can be classified as technology💻 fascinates me. My interests and work range from Data Science📈 to creating Chatbots🤖 to building APIs for Computer Vision applications👀 to Indie game development⛳ to making AR filters👓 for Instagram and much more. I'm always open to new ideas and opportunities.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/yogeshjournal/yogeshjournal/main/code.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
