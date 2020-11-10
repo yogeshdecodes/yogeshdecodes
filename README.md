@@ -3,7 +3,7 @@
 <a href="https://twitter.com/yogesh_io">
   <img align="left" alt="Yogesh Yadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/Yogesh Yadav/">
+<a href="https://www.linkedin.com/in/Yogeshjournal/">
   <img align="left" alt="Yogesh Yadav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/yogeshjournal">
@@ -15,7 +15,7 @@
 <a href="https://www.reddit.com/user/yogeshio/">
   <img align="left" alt="Yogesh's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com/abhisheknaiidu/">
+<a href="https://leetcode.com/yogeshjournal/">
   <img align="left" alt="Yogesh Yadav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
