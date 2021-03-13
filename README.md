@@ -52,7 +52,7 @@ I'm Yogesh Yadav, a self-taught Full Stack Developer 🚀 and UI/UX Enthusiast �
 An ambitious boy who loves to solves real world problems, day dream at nights and sometime codes too.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ### 🏆 My other interests
-I'm also Technical content writer and have a knack for writing too. Read my blogs on [Medium](https://medium.com/@yogeshyadav).
+I'm also Technical content writer and have a knack for writing too. Read my blogs on [Medium](https://medium.com/@yogeshyadav) or [hashnode](http://yogeshyadav.hashnode.dev).
 I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 <h3>Open source projects</h3>
@@ -78,7 +78,9 @@ I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate�
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href=https://medium.com/dev-genius/why-tech-behind-spacex-is-a-game-changer-56c60995d41e"><b> Why Tech behind SpaceX is a game changer? </b></a><br/><i>Take a deep dive into programming languages used to make Modern day Space technologies.</i></li>
+  <li><a href="https://medium.com/dev-genius/why-tech-behind-spacex-is-a-game-changer-56c60995d41e"><b> Why Tech behind SpaceX is a game changer? </b></a><br/><i>Take a deep dive into programming languages used to make Modern day Space technologies.</i></li>
+<li><a href="https://yogeshyadav.hashnode.dev/confcube-virtual-tech-events-social-network"><b>ConfCube - Virtual Tech Event's Social Network 🔥 </b></a><br/><i>Making socialising in conferences less awkward</i></li>
+<li><a href="https://yogeshyadav.hashnode.dev/voicenotes-speech-to-text-online-notepad"><b> VoiceNotes- Speech to Text Online Notepad </b></a><br/><i>How to deploy your reactjs app quickly on aws amplify</i></li>
 </ul>
 
 
