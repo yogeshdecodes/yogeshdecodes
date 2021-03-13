@@ -1,21 +1,21 @@
 # Hello, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/yogesh_io">
+<a href="https://twitter.com/yogesh_io" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/Yogeshjournal/">
+<a href="https://www.linkedin.com/in/Yogeshjournal/" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/yogeshjournal">
+<a href="https://t.me/yogeshjournal" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/yogesh.io/">
+<a href="https://www.instagram.com/yogesh.io/" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/yogeshio/">
+<a href="https://www.reddit.com/user/yogeshio/" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com/yogeshjournal/">
+<a href="https://leetcode.com/yogeshjournal/" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
@@ -78,9 +78,9 @@ I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate�
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/dev-genius/why-tech-behind-spacex-is-a-game-changer-56c60995d41e"><b> Why Tech behind SpaceX is a game changer? </b></a><br/><i>Take a deep dive into programming languages used to make Modern day Space technologies.</i></li>
-<li><a href="https://yogeshyadav.hashnode.dev/confcube-virtual-tech-events-social-network"><b>ConfCube - Virtual Tech Event's Social Network 🔥 </b></a><br/><i>Making socialising in conferences less awkward</i></li>
-<li><a href="https://yogeshyadav.hashnode.dev/voicenotes-speech-to-text-online-notepad"><b> VoiceNotes- Speech to Text Online Notepad </b></a><br/><i>How to deploy your reactjs app quickly on aws amplify</i></li>
+  <li><a href="https://medium.com/dev-genius/why-tech-behind-spacex-is-a-game-changer-56c60995d41e" target="_blank" rel="noreferrer"><b> Why Tech behind SpaceX is a game changer? </b></a><br/><i>Take a deep dive into programming languages used to make Modern day Space technologies.</i></li>
+<li><a href="https://yogeshyadav.hashnode.dev/confcube-virtual-tech-events-social-network" target="_blank" rel="noreferrer"><b>ConfCube - Virtual Tech Event's Social Network 🔥 </b></a><br/><i>Making socialising in conferences less awkward</i></li>
+<li><a href="https://yogeshyadav.hashnode.dev/voicenotes-speech-to-text-online-notepad" target="_blank" rel="noreferrer"><b> VoiceNotes- Speech to Text Online Notepad </b></a><br/><i>How to deploy your reactjs app quickly on aws amplify</i></li>
 </ul>
 
 
