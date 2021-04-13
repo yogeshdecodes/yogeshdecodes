@@ -37,16 +37,7 @@ I'm Yogesh Yadav, a self-taught Full Stack Developer 🚀 and UI/UX Enthusiast �
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+![Nextjs](https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)&nbsp;![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![styled components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;![materialui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;![graphql](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 
 ### 🌸 One line that describes me best? 
 An ambitious boy who loves to solves real world problems, day dream at nights and sometime codes too.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -78,9 +69,9 @@ I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate�
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/dev-genius/why-tech-behind-spacex-is-a-game-changer-56c60995d41e" target="_blank" rel="noreferrer"><b> Why Tech behind SpaceX is a game changer? </b></a><br/><i>Take a deep dive into programming languages used to make Modern day Space technologies.</i></li>
 <li><a href="https://yogeshyadav.hashnode.dev/confcube-virtual-tech-events-social-network" target="_blank" rel="noreferrer"><b>ConfCube - Virtual Tech Event's Social Network 🔥 </b></a><br/><i>Making socialising in conferences less awkward</i></li>
 <li><a href="https://yogeshyadav.hashnode.dev/voicenotes-speech-to-text-online-notepad" target="_blank" rel="noreferrer"><b> VoiceNotes- Speech to Text Online Notepad </b></a><br/><i>How to deploy your reactjs app quickly on aws amplify</i></li>
+  <li><a href="https://medium.com/dev-genius/why-tech-behind-spacex-is-a-game-changer-56c60995d41e" target="_blank" rel="noreferrer"><b> Why Tech behind SpaceX is a game changer? </b></a><br/><i>Take a deep dive into programming languages used to make Modern day Space technologies.</i></li>
 </ul>
 
 
