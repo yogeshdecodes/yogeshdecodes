@@ -46,7 +46,7 @@ An ambitious boy who loves to solves real world problems, day dream at nights an
 I'm also Technical content writer and have a knack for writing too. Read my blogs on [Medium](https://medium.com/@yogeshyadav) or [hashnode](http://yogeshyadav.hashnode.dev).
 I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
-<h3>Open source projects</h3>
+<!--- <h3>Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -66,7 +66,7 @@ I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate�
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yogeshjournal/Covid19_life_saviour_flutter_app?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 <h3>My latest posts</h3>
 <ul>
 <li><a href="https://yogeshyadav.hashnode.dev/confcube-virtual-tech-events-social-network" target="_blank" rel="noreferrer"><b>ConfCube - Virtual Tech Event's Social Network 🔥 </b></a><br/><i>Making socialising in conferences less awkward</i></li>
