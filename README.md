@@ -32,7 +32,7 @@ I'm Yogesh Yadav, a self-taught Full Stack Developer 🚀 and UI/UX Enthusiast �
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Reactjs and Flutter 
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [Email](mailto:2803yogesh.yadav@gmail.com)
+- 📫 How to reach me: [Email](mailto:yogeshdecodes@gmail.com)
 - 📝[Resume](https://drive.google.com/file/d/)
 
 **Languages and Tools:**  
