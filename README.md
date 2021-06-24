@@ -78,7 +78,7 @@ I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate�
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yogeshjournal&show_icons=true&theme=gotham" alt="yogeshjournal" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yogeshdecodes&show_icons=true&theme=gotham" alt="yogeshjournal" />
 
 </details>
 
