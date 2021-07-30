@@ -1,6 +1,26 @@
 # Hello, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/yogeshdecodes" target="_blank" rel="noreferrer">
+<img alt="Yogesh Yadav | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
+</a>
+<a href="https://www.linkedin.com/in/Yogeshdecodes" target="_blank" rel="noreferrer">
+  <img align="left" alt="Yogesh Yadav's LinkdeIN"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://t.me/yogeshjournal" target="_blank" rel="noreferrer">
+  <img align="left" alt="Yogesh Yadav's Telegram"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/yogeshdecodes" target="_blank" rel="noreferrer">
+  <img align="left" alt="Yogesh Yadav's Instagram"   src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.reddit.com/user/yogeshio" target="_blank" rel="noreferrer">
+  <img align="left" alt="Yogesh's Reddit"  src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+<a href="https://leetcode.com/yogeshjournal" target="_blank" rel="noreferrer">
+  <img align="left" alt="Yogesh Yadav's Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+
+<!--  
+<a href="https://twitter.com/yogeshdecodes" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/Yogeshdecodes/" target="_blank" rel="noreferrer">
@@ -18,7 +38,7 @@
 <a href="https://leetcode.com/yogeshjournal/" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />
 </a>
-
+-->
 ![](https://visitor-badge.glitch.me/badge?page_id=yogeshjournal.yogeshjournal)
 
 <br />
