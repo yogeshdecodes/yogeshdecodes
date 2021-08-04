@@ -1,19 +1,24 @@
 # Hello, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/yogeshdecodes" target="_blank" rel="noreferrer">
-<img alt="Yogesh Yadav | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
-</a>
+
 <a href="https://www.linkedin.com/in/Yogeshdecodes" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav's LinkdeIN"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://stackoverflow.com/users/13006633/yogesh-yadav" target="_blank" rel="noreferrer">
+  <img align="left" alt="Yogesh Yadav Stackoverflow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/yogeshjournal" target="_blank" rel="noreferrer">
+  <img align="left" alt="Yogesh Yadav's Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+
 <a href="https://www.instagram.com/yogeshdecodes" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav's Instagram"   src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href=https://stackoverflow.com/users/13006633/yogesh-yadav" target="_blank" rel="noreferrer">
-  <img align="left" alt="Yogesh's Stackoverflow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-<a href="https://leetcode.com/yogeshjournal" target="_blank" rel="noreferrer">
-  <img align="left" alt="Yogesh Yadav's Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+
+<a href="https://twitter.com/yogeshdecodes" target="_blank" rel="noreferrer">
+<img alt="Yogesh Yadav | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
 </a>
 
 <!--  
