@@ -6,14 +6,11 @@
 <a href="https://www.linkedin.com/in/Yogeshdecodes" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav's LinkdeIN"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://t.me/yogeshjournal" target="_blank" rel="noreferrer">
-  <img align="left" alt="Yogesh Yadav's Telegram"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
 <a href="https://www.instagram.com/yogeshdecodes" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav's Instagram"   src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.reddit.com/user/yogeshio" target="_blank" rel="noreferrer">
-  <img align="left" alt="Yogesh's Reddit"  src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+<a href=https://stackoverflow.com/users/13006633/yogesh-yadav" target="_blank" rel="noreferrer">
+  <img align="left" alt="Yogesh's Stackoverflow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 <a href="https://leetcode.com/yogeshjournal" target="_blank" rel="noreferrer">
   <img align="left" alt="Yogesh Yadav's Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
