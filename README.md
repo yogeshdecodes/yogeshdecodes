@@ -41,7 +41,7 @@
   <img align="left" alt="Yogesh Yadav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />
 </a>
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=yogeshjournal.yogeshjournal)
+
 
 <br />
 
@@ -97,11 +97,25 @@ I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate�
 </ul>
 
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+### My Github Stats 
+- - - -
+[![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshdecodes&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/yogeshdecodes)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yogeshdecodes&show_icons=true&theme=gotham" alt="yogeshjournal" />
+<!---<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yogeshdecodes&show_icons=true&theme=gotham" alt="yogeshjournal" />-->
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshdecodes&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/yogeshdecodes)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yogeshdecodes&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Styephen's streak" /></p>
+
+
+
+## Wakatime Stats
+> ####  [WakaTime Dashboard 🔗 ](https://wakatime.com/@yogeshdecodes) 
+  <p>
+    <img src="https://wakatime.com/share/@yogeshdecodes/6877ba03-8998-41c9-a762-82eb52b40776.svg" height="320" width="420">
+  <img src="https://wakatime.com/share/@yogeshdecodes/e1363fd6-7e4d-4c0f-b60f-a23578db0d22.svg" height="320" width="420">
+    
+ 
+  </p>
 
 
